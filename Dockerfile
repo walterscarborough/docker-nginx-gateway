@@ -3,7 +3,7 @@ FROM nginx:1.9
 
 MAINTAINER Walter Scarborough <walter.scarborough@gmail.com>
 
-RUN mkdir /etc/nginx/sites-available
+RUN mkdir /etc/nginx/sites-available \
     && \
     mkdir /etc/nginx/sites-enabled
 
