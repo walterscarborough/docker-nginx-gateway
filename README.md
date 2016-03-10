@@ -2,6 +2,8 @@
 
 This service provides routing and orchestration for API microservices.
 
+It will load any virtualhost that's placed in the /etc/nginx/sites-enabled directory.
+
 ## Setup and Installation
 
 ### Clone repo and submodules
