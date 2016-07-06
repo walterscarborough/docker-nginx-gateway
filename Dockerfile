@@ -1,5 +1,5 @@
 # Base Image
-FROM nginx:1.9
+FROM nginx:1.10
 
 MAINTAINER Walter Scarborough <walter.scarborough@gmail.com>
 
